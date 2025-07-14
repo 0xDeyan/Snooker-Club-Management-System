@@ -49,7 +49,7 @@
 - Smooth animations and hover states
 - Clean, professional layout with zero-clutter forms
 
-# More SCreenshots
+# More Screenshots
 
 <img width="1819" height="757" alt="image" src="https://github.com/user-attachments/assets/1450d903-6a4e-47b4-885c-25a026f8fe5b" />
 <img width="1819" height="852" alt="image" src="https://github.com/user-attachments/assets/41618f8e-4574-4dd9-bf69-58ee64370b2a" />
