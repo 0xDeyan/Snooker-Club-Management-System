@@ -18,37 +18,38 @@
 
 ## ✨ Features
 
-### 🎱 Table Management
+###  Table Management
 - Add/remove snooker tables dynamically
 - Track singles/doubles games with individual pricing
 - Real-time century timer (per-minute billing)
 - Live seconds counter
 - Customizable table layout (1–6 per row)
 
-### 💸 Revenue Tracker
+###  Revenue Tracker
 - Daily transaction log with timestamps
 - Date-wise revenue filtering
 - Auto payment calculation
 - Full transaction history
 
-### 🧾 Customer Debt Management
+###  Customer Debt Management
 - Add customers with avatars & debt info
 - Easy debt tracking, timestamped logs
 - Clear debts in one click
 
-### 💾 Data Management
+###  Data Management
 - Export/Import data as JSON
 - Full localStorage persistence
 - Backup/Restore options
 - Data clear/reset with confirmation
 
-### 🖌️ UI/UX Design
+###  UI/UX Design
 - Responsive (mobile/tablet/desktop)
 - Dark theme with glassmorphism
 - Real-time notifications
 - Smooth animations and hover states
 - Clean, professional layout with zero-clutter forms
 
+# More SCreenshots
 
 <img width="1819" height="757" alt="image" src="https://github.com/user-attachments/assets/1450d903-6a4e-47b4-885c-25a026f8fe5b" />
 <img width="1819" height="852" alt="image" src="https://github.com/user-attachments/assets/41618f8e-4574-4dd9-bf69-58ee64370b2a" />
