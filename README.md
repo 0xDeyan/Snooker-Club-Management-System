@@ -1,4 +1,6 @@
-## A sleek and professional web application designed for snooker and billiards clubs to manage tables, revenue, and customers effortlessly — all with an elegant glassmorphism UI.
+# Karock X Snooker Club Management System
+
+A sleek and professional web application designed for snooker and billiards clubs to manage tables, revenue, and customers effortlessly — all with an elegant glassmorphism UI.
 
 > ⚠️ This is a **client-owned proprietary project**. Source code is not publicly available, but a private demo or code walkthrough may be shown upon request. Included in portfolio strictly to demonstrate production-grade delivery and technical capability.
 
