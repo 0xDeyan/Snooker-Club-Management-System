@@ -3,9 +3,7 @@ A sleek and professional web application designed for snooker and billiards club
 > ⚠️ This is a **client-owned proprietary project**. Source code is not publicly available, but a private demo or code walkthrough may be shown upon request. Included in portfolio strictly to demonstrate production-grade delivery and technical capability.
 
 <img width="1840" height="1592" alt="image" src="https://github.com/user-attachments/assets/c6a9aae4-40fe-4f03-a8c1-371d47b7e095" />
-<img width="1819" height="757" alt="image" src="https://github.com/user-attachments/assets/1450d903-6a4e-47b4-885c-25a026f8fe5b" />
-<img width="1819" height="852" alt="image" src="https://github.com/user-attachments/assets/41618f8e-4574-4dd9-bf69-58ee64370b2a" />
-<img width="1819" height="824" alt="image" src="https://github.com/user-attachments/assets/5fdc95d1-d5b9-40ed-a95e-ca5384d93d1e" />
+
 
 ## 🔧 Technology Stack
 
@@ -50,3 +48,8 @@ A sleek and professional web application designed for snooker and billiards club
 - Real-time notifications
 - Smooth animations and hover states
 - Clean, professional layout with zero-clutter forms
+
+
+<img width="1819" height="757" alt="image" src="https://github.com/user-attachments/assets/1450d903-6a4e-47b4-885c-25a026f8fe5b" />
+<img width="1819" height="852" alt="image" src="https://github.com/user-attachments/assets/41618f8e-4574-4dd9-bf69-58ee64370b2a" />
+<img width="1819" height="824" alt="image" src="https://github.com/user-attachments/assets/5fdc95d1-d5b9-40ed-a95e-ca5384d93d1e" />
